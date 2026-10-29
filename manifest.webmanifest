@@ -10,8 +10,38 @@
   "background_color": "#0f172a",
   "theme_color": "#0f172a",
   "icons": [
-    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
-    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
-    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "screenshots/wide.png",
+      "sizes": "1920x1040",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Setup sheet on desktop"
+    },
+    {
+      "src": "screenshots/narrow.png",
+      "sizes": "1080x1928",
+      "type": "image/png",
+      "label": "Setup sheet on a phone"
+    }
   ]
 }

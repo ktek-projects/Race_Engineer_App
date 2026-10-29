@@ -1,6 +1,6 @@
 /* Race Engineer App service worker: caches the app shell so it opens offline.
    Bump CACHE_VERSION whenever index.html changes so installed copies pick up the update. */
-const CACHE_VERSION = 'race-engineer-v1';
+const CACHE_VERSION = 'race-engineer-v2';
 const SHELL = [
   './',
   './index.html',
