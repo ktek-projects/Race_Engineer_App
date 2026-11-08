@@ -1,7 +1,7 @@
 {
-  "name": "Race Engineer App",
-  "short_name": "Race Engineer",
-  "description": "Race setup sheets, track maps, fuel and gearing analysis. Works fully offline.",
+  "name": "Setup Sheet Pro",
+  "short_name": "Setup Pro",
+  "description": "Setup sheets, track maps, fuel and gearing analysis for race and track days. Works fully offline.",
   "id": "./",
   "start_url": "./index.html",
   "scope": "./",
@@ -35,13 +35,13 @@
       "sizes": "1920x1040",
       "type": "image/png",
       "form_factor": "wide",
-      "label": "Setup sheet on desktop"
+      "label": "Setup Sheet Pro on desktop"
     },
     {
       "src": "screenshots/narrow.png",
       "sizes": "1080x1928",
       "type": "image/png",
-      "label": "Setup sheet on a phone"
+      "label": "Setup Sheet Pro on a phone"
     }
   ]
 }

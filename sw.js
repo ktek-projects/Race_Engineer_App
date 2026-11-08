@@ -1,6 +1,6 @@
-/* Race Engineer App service worker: caches the app shell so it opens offline.
+/* Setup Sheet Pro service worker: caches the app shell so it opens offline.
    Bump CACHE_VERSION whenever index.html changes so installed copies pick up the update. */
-const CACHE_VERSION = 'race-engineer-v2';
+const CACHE_VERSION = 'setup-sheet-pro-v3';
 const SHELL = [
   './',
   './index.html',
